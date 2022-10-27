@@ -1,6 +1,6 @@
 # Alura Plus Site
 
-Status do Projeto: Finalizado
+<strong>Status do Projeto:</strong> Finalizado
 
 Projeto feito no curso "Alura HTML e CSS: Praticando HTML/CSS"
 
