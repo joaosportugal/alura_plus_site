@@ -1,11 +1,11 @@
-<h1 style="color: #f7b449;"> Alura Plus Site </h1>
+<h1>Alura Plus Site</h1>
 
-<p style="color: #5847ad;"><strong>Status do Projeto:</strong> Finalizado </p>
+<strong>Projeto feito no curso "Alura HTML e CSS: Praticando HTML/CSS"</strong>
 
-Projeto feito no curso "Alura HTML e CSS: Praticando HTML/CSS"
+<strong>Status do Projeto:</strong> Finalizado </p>
 
-Tecnologias Utilizadas: HTML e CSS
+<strong>Tecnologias Utilizadas:</strong> HTML e CSS
 
-Visualize o site finalizado em:
+<strong>Visualize o site finalizado em:</strong>
 https://joaosportugal.github.io/alura_plus_site/
 
