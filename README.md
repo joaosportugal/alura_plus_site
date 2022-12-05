@@ -7,5 +7,5 @@
 <strong>Tecnologias Utilizadas:</strong> HTML e CSS
 
 <strong>Visualize o site finalizado em:</strong>
-https://joaosportugal.github.io/alura_plus_site/
+https://joaosportugal.github.io/alura_project_01_plus_site/
 
